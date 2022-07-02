@@ -1,8 +1,8 @@
-.h1{
-  color: black;
-  font-family: 'Poppins', sans-serif;
-}
 .button {
   height: 100px;
   width: 300px;
+}
+h2 {
+  font-family: 'Poppins', sans-serif;
+  color: #000000;
 }
